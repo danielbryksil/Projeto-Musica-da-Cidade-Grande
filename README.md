@@ -7,7 +7,7 @@ Hipóteses:
 
 - Durante as manhãs de segunda-feira, os moradores de Springfield e Shelbyville escutam diferentes gêneros. Isso também é verdadeiro para noites de sexta-feira.
 
--Os ouvintes de Springfield e Shelbyville têm diferentes preferências. Em Springfield, as pessoas preferem pop, enquanto Shelbyville tem mais fãs de rap.
+- Os ouvintes de Springfield e Shelbyville têm diferentes preferências. Em Springfield, as pessoas preferem pop, enquanto Shelbyville tem mais fãs de rap.
 
 Descrição dos dados:
 Os dados são armazenados no arquivo /datasets/music_project_en.csv. Alternativamente, você pode fazer o download aqui.
