@@ -10,9 +10,15 @@ Os dados são armazenados no arquivo /datasets/music_project_en.csv. Alternativa
 
 Descrição das colunas:
 'userID' — identificador do usuário
+
 'Track' — título da faixa
+
 'artist' — nome do artista
+
 'genre' — gênero de música
+
 'City' — cidade do usuário
+
 'time' — o tempo exato que a faixa foi reproduzida
+
 'Day' — dia da semana
